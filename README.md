@@ -1,1 +1,1 @@
-Expert, One Day🎭
+Python, C++, C#, Assembly, Java, Lua
